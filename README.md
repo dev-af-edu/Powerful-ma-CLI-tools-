@@ -16,7 +16,7 @@ To check if you have PHP, open PowerShell and run:
 
 ## 📥 Installation (Windows)
 
-1. **Clone this repository:**
+1. **Clone this repository and enter the folder:**
     git clone https://github.com/dev-af-edu/Powerful-ma-CLI-tools-.git
     cd Powerful-ma-CLI-tools-
 
