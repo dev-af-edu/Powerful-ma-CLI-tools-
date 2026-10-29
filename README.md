@@ -21,7 +21,7 @@ php -v
 
 1. **Clone this repository:**
    \`\`\`bash
-   git clone https://github.com/YOUR_USERNAME/ma-tools.git
+   git clone https://github.com/dev-af-edu/Powerful-ma-CLI-tools-.git
    cd ma-tools
    \`\`\`
 
